@@ -15,7 +15,7 @@
     Date: May 19, 2026
     Copyright: (c) 2026 Adam J. Kessel.
 
-    This is free and open-source license, subject to the 2-Clause BSD License.  https://opensource.org/license/bsd-2-clause
+    This is free and open-source software, subject to the 2-Clause BSD License.  https://opensource.org/license/bsd-2-clause
 #>
 #Requires -version 5.1
 param ( [Parameter(Mandatory = $false, HelpMessage = "quiet output")][switch]$quiet)
